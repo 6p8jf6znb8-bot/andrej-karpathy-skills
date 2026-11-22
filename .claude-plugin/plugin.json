@@ -7,6 +7,5 @@
   },
   "license": "MIT",
   "keywords": ["guidelines", "best-practices", "coding", "karpathy"],
-  "skills": ["./skills/karpathy-guidelines"],
-  "agents": ["./agents/code-reviewer.md", "./agents/planner.md", "./agents/debugger.md"]
+  "skills": ["./skills/karpathy-guidelines"]
 }
